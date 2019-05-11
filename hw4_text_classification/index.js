@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I stuffed a shirt or two into my old carpet-bag, tucked it under my arm, and started for Cape Horn and the Pacific.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.', 
+      'She would not wound the feelings of her sister on any account, and yet to say what she did not believe was impossible.', 
   'example4':
-      'At his first violent sin he had felt a wave of vitality pass out of him and had feared to find his body or his soul maimed by the excess.' 
+      'So spake th’ Apostate Angel, though in pain, Vaunting aloud, but rackt with deep despare: And him thus answer’d soon his bold Compeer.' 
 };
 
 function status(statusText) {
